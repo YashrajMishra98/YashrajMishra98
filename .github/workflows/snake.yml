@@ -2,8 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executes daily at midnight
-  workflow_dispatch: # Allows manual pipeline triggering
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# Authorizes the runner to push commits to the repository
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,7 +23,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Upgraded to v4 to mitigate Node 20 deprecation runtime errors
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
