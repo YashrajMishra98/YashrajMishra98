@@ -6,13 +6,6 @@
   <i>"Hey Everyone ! I am Yashraj Mishra a Coding Enthusiast "</i>
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YashrajMishra98&theme=radical&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
 ### 👨‍💻 Executive Summary
 
 Results-driven Electronics and Communication Engineering undergraduate at NIT Silchar. Proven track record in orchestrating scalable full-stack web architectures, optimizing embedded systems firmware, and deploying data-driven machine learning models. Adept at cross-functional team leadership and delivering high-impact technological solutions within strict operational parameters.
@@ -64,7 +57,6 @@ Results-driven Electronics and Communication Engineering undergraduate at NIT Si
 ### 📈 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashrajMishra98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashrajMishra98&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
