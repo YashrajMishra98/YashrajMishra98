@@ -9,7 +9,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YashrajMishra98&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YashrajMishra98&theme=radical&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@ Results-driven Electronics and Communication Engineering undergraduate at NIT Si
 ### 📈 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashrajMishra98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashrajMishra98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashrajMishra98&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
