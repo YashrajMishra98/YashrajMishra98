@@ -2,13 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yashraj%20Mishra&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Robotics%20Engineer&descAlignY=51&descAlign=62" />
 </div>
 
-<div align="center">
-  <i>"Hey Everyone ! I am Yashraj Mishra a Coding Enthusiast "</i>
-</div>
-
 ### 👨‍💻 Executive Summary
-
-Results-driven Electronics and Communication Engineering undergraduate at NIT Silchar. Proven track record in orchestrating scalable full-stack web architectures, optimizing embedded systems firmware, and deploying data-driven machine learning models. Adept at cross-functional team leadership and delivering high-impact technological solutions within strict operational parameters.
 
 * 🎓 **Education:** B.Tech ECE @ NIT Silchar (CGPA: 8.03/10)
 * 💼 **Current Role:** Junior Robotics Developer @ N.E.R.D.S (Optimizing PID algorithms & C++ firmware for autonomous hardware)
@@ -24,19 +18,10 @@ Results-driven Electronics and Communication Engineering undergraduate at NIT Si
 
 ### 🛠️ Technology Stack & Capabilities
 
-**Core Programming, ML & Backend:**
-* **Languages:** C++, Python, JavaScript
-* **Backend Frameworks:** Node.js, Express.js, REST APIs
-* **Machine Learning:** Scikit-learn, Pandas, NumPy
-* **Databases:** MySQL, MongoDB
-* **Core CS Fundamentals:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOP
-
+**Core Programming, ML & Backend:** <br>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,mysql,linux&theme=dark" />
 
-**Frontend, Tooling & Deployment:**
-* **Frontend Frameworks:** React, Next.js, Tailwind CSS
-* **Tools & Infrastructure:** Git, VS Code, Linux, Vercel, Render
-
+**Frontend, Tooling & Deployment:** <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,vscode,vercel&theme=dark" />
 
 ### 📊 Competitive Programming & Algorithm Optimization
